@@ -1,0 +1,8 @@
+{
+  "SourcePath": "D:\\Test\\Source",
+  "TargetPath": "D:\\Test\\Target",
+  "Key": "MyKey1",
+  "TargetDataPath": "D:\\Test\\Source",
+  "ConnectionString": "Data Source=(localDB)\\MSSQLLocalDB;Initial Catalog=AdventureWorksLT2014;Integrated Security=False",
+  "DatabaseName": "AdventureWorksLT2014"
+}
